@@ -1,0 +1,55 @@
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe.config
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.pdb
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.AssemblyReference.cache
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form1.resources
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Properties.Resources.resources
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.GenerateResource.cache
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.exe
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.pdb
+C:\Users\Alice\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form2.resources
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe.config
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.pdb
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.AssemblyReference.cache
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form1.resources
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form2.resources
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Properties.Resources.resources
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.GenerateResource.cache
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.CoreCompileInputs.cache
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.exe
+E:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.pdb
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe.config
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\bin\Debug\Software_Hero.pdb
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.AssemblyReference.cache
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form1.resources
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form2.resources
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Properties.Resources.resources
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.GenerateResource.cache
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.CoreCompileInputs.cache
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.exe
+C:\Users\EtecJa\source\repos\Software_Hero\Software_Hero\obj\Debug\Software_Hero.pdb
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe.config
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\bin\Debug\Software_Hero.pdb
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.AssemblyReference.cache
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form1.resources
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form2.resources
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Properties.Resources.resources
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.GenerateResource.cache
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.CoreCompileInputs.cache
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.exe
+C:\Users\EtecJa\Desktop\Software_Hero\Software_Hero\obj\Debug\Software_Hero.pdb
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe.config
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.exe
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\bin\Debug\Software_Hero.pdb
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.AssemblyReference.cache
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form1.resources
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Form2.resources
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.Properties.Resources.resources
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.GenerateResource.cache
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.csproj.CoreCompileInputs.cache
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.exe
+D:\Etec\2-ano\Curso\DS\Visual Studio\Boku_no_hero\Software_Hero\Software_Hero\obj\Debug\Software_Hero.pdb
