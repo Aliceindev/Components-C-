@@ -12,6 +12,5 @@ This software runs several components in csharp with the aim of showing in pract
 
 <br>
 
-## 🚀Image Project
 
 
